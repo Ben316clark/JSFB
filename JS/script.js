@@ -4,5 +4,7 @@
 
 See */
 
-console.log(Benjamin Clark);
-console.log(Sushi);
+console.log("Benjamin Clark");
+console.log("Sushi");
+
+
